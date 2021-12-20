@@ -1,3 +1,8 @@
+# Ignore csv
+*.csv
+
+data/economicos/*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
